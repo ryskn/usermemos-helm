@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.2.1] - 2026-02-02
+
+### Changed
+- Updated memos application version from 0.25.2 to 0.26.0
+
 ## [0.2.0] - 2025-11-23
 
 ### Changed

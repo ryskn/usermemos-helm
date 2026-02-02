@@ -22,7 +22,7 @@ version: 0.26.0
 # follow Semantic Versioning. They should reflect the version the application is using.
 # It is recommended to use it with quotes.
 appVersion: "0.26.0"
-home: https://github.com/usememos/helm
+home: https://github.com/ryskn/usermemos-helm
 sources:
   - https://github.com/usememos/memos
   - https://github.com/ryskn/usermemos-helm

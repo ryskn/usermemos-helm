@@ -4,6 +4,17 @@
 
 replicaCount: 1
 
+database:
+  # "sqlite" or "postgres"
+  driver: postgres
+
+postgresql:
+  enabled: true
+  auth:
+    username: memos
+    password: memos
+    database: memos
+
 image:
   repository: ghcr.io/usememos/memos
   pullPolicy: IfNotPresent

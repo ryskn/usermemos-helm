@@ -25,7 +25,7 @@ The default image tag uses the chart's `appVersion`. To use a different version:
 
 ```yaml
 image:
-  tag: "0.26.0"  # Specify a different version
+  tag: "0.26.1"  # Specify a different version
 ```
 
 ## Persistence

@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.2.2] - 2026-02-15
+
+### Added
+- PostgreSQL support as a subchart dependency (Bitnami PostgreSQL)
+- `database.driver` config to switch between `sqlite` and `postgres`
+- `MEMOS_DRIVER` and `MEMOS_DSN` environment variables auto-configured when using PostgreSQL
+
+### Changed
+- Updated memos application version from 0.26.0 to 0.26.1
+
 ## [0.2.1] - 2026-02-02
 
 ### Changed
